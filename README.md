@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iceice777
-- 👀 I’m interested in Projects to refine my skill in the following languages
+- 👀 I’m interested in Projects to refine my skills in the following languages
 - 🌱 I’m currently learning Python, JavaScript, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me masonwill02@gmail.com
